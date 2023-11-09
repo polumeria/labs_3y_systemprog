@@ -23,7 +23,7 @@ void print_matrix(int** array, int rows, int columns);
  * @param count {int} - Количество нулей
  * @return {void} - Ничего не возвращает
  */
-// void print_result(int count);
+ void print_result(int count);
 
 
 #endif //_INIT_H_
