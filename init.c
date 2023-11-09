@@ -6,7 +6,7 @@ int flag (int a){
     if (a == 0) {
         return true;
     }
-    else  return false;
+    else return false;
 }
 
 int zero_count(int* array, int size){
