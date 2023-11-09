@@ -48,8 +48,6 @@ int main(){
     print_result(zero_count(array, size));
     print_enter();
 
-    //-------------------------------------------------------
-
     for (int i = 0; i < size; i++) {
         for (int j = 0; j < amount(size); j++) {
             double_array[i][j] = rand() % 10;
